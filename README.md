@@ -1,10 +1,6 @@
 # Telegram Fools Client
 
-@(0012 - Projects)
-
 本项目是一个开源的第三方 Telegram Client。
-
-[TOC]
 
 ## 增强搜索
 
@@ -42,7 +38,7 @@
 连接各大「群组信息整合 bot/website」。查找 Group/Channel 的需求现在也可以直接在主界面搜索框中完成了。
 ![Alt text](https://i.imgur.com/PkDjAiG.png)
 
-## 去掉反感的消息
+## 去掉令你反感的消息
 
 ### 选项：屏蔽已 Block 用户在 Group 中的发言
 
@@ -97,3 +93,7 @@ PIN 也不例外！
 进度：50%。
 
 ![Alt text](http://i.imgur.com/mU2OFua.png)
+
+## License
+
+This project is licensed under the [WTFPL](http://www.wtfpl.net/).
