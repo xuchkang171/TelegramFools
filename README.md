@@ -36,6 +36,7 @@
 * Bot
 
 连接各大「群组信息整合 bot/website」。查找 Group/Channel 的需求现在也可以直接在主界面搜索框中完成了。
+
 ![Alt text](https://i.imgur.com/PkDjAiG.png)
 
 ## 去掉令你反感的消息
@@ -43,26 +44,32 @@
 ### 选项：屏蔽已 Block 用户在 Group 中的发言
 
 开启后，已 Block 用户除了 Telegram 原有的禁止其 PM 外，其在 Group 中的发言也会被（本地）屏蔽：
+
 ![Alt text](http://i.imgur.com/1miLlCO.png)
 
 鼠标指向「2 messages muted」可预览被屏蔽的消息，点击恢复显示原消息。
+
 也可以设置为「屏蔽且无任何提示」。
 
 ### 选项：Group 中 Sticker 替换为 Emoji
 
-Group 中用户发送 Sticker 太频繁打乱交流？开启该选项后，Group 中用户发送的 Sticker 消息将替换为其对应 Emoji，鼠标指向即预览原图，点击即恢复原始 Sticker 消息，再点击 Sticker 可如原版一样查看、添加 Sticker pack。
+Group 中用户发送 Sticker 太频繁打乱交流？
+
+开启该选项后，Group 中用户发送的 Sticker 消息将替换为其对应 Emoji，鼠标指向即预览原图，点击即恢复原始 Sticker 消息，再点击 Sticker 可如原版一样查看、添加 Sticker pack。
 
 ### NO NOTIFICATION
 
 ![Alt text](http://i.imgur.com/pTODNu6.png)
 
 GROUP 的 NOTIFICATION 关闭后，GROUP 消息无提醒。
+
 PIN 也不例外！
 收到 Pin 消息仅在 Chat 列表中如上特殊标识。
 
 ## 内置通知中心
 
 默认 24 小时内的消息通知都保留在通知中心，如果错过了消息通知，可以在这里查看，点击跳转到原消息处。
+
 保留期限可自定义。
 
 ## 任意 Pin to top
@@ -88,8 +95,12 @@ PIN 也不例外！
 
 ## 项目进度
 
+Repo: [xuchkang171/TelegramFools](https://github.com/xuchkang171/TelegramFools)
+
 本项目主要分为 Markdown 部分和代码部分。
+
 目前已完成 Markdown 部分。
+
 进度：50%。
 
 ![Alt text](http://i.imgur.com/mU2OFua.png)
